@@ -1,0 +1,1 @@
+# Single-level-Inheritance-Ex2
